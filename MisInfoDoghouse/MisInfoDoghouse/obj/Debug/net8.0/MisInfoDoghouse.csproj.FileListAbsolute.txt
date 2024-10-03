@@ -1,0 +1,14 @@
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.exe
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.deps.json
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.runtimeconfig.json
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.dll
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.pdb
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.AssemblyInfoInputs.cache
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.AssemblyInfo.cs
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.csproj.CoreCompileInputs.cache
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.dll
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\refint\MisInfoDoghouse.dll
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.pdb
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.genruntimeconfig.cache
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\ref\MisInfoDoghouse.dll
