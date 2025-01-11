@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "o4kq2NohOKE=",
+  "dgSpecHash": "7gOrt65sEVw=",
   "success": true,
   "projectFilePath": "F:\\Projects\\MisInfo-Watchdog\\MisInfo-DogHouse\\MisInfoDoghouse\\MisInfoDoghouse\\MisInfoDoghouse.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -12,3 +12,8 @@ F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\ob
 F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.pdb
 F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.genruntimeconfig.cache
 F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\ref\MisInfoDoghouse.dll
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.sourcelink.json
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoDoghouse.csproj.AssemblyReference.cache
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\MisInfoDoghouse.dll.config
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\bin\Debug\net8.0\HtmlAgilityPack.dll
+F:\Projects\MisInfo-Watchdog\MisInfo-DogHouse\MisInfoDoghouse\MisInfoDoghouse\obj\Debug\net8.0\MisInfoD.735BE8F4.Up2Date
